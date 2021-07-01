@@ -1,4 +1,5 @@
 # Calculator_UDP
 
-Contribuitor: Antônio Ricardo\n
+Contribuitor: Antônio Ricardo
+
 UDP calculator made for the work of the Distributed Systems course.
